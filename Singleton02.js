@@ -23,8 +23,10 @@ console.log("------------------ Cliente ------------------");
 const s1 = new Singleton();
 const s2 = new Singleton();
 
+console.log("------ Compara se S1 == S2");
 console.log(s1 == s2);
 
+console.log("Começa o ciclo do increment()");
 s1.increment();
 s2.increment();
 s1.increment();
