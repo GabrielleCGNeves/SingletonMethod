@@ -14,6 +14,9 @@
 ---
 
 ## Índice
-- [Method in Python](./Singleton01.py)
-- [Method in Javascript](./Singleton02.js)
-- [Carrinho Exemple](./Carrinho.py)
+- [Javascript]
+    - [Method in Javascript](./Singleton02.js)
+    - [Carrinho Exemple Javascript](./Carrinho.js)
+- [Python]
+    - [Method in Python](./Singleton01.py)
+    - [Carrinho Exemple Python](./Carrinho.py)
