@@ -15,8 +15,8 @@
 
 ## Índice
 - [Javascript]
-    - [Method in Javascript](./Singleton02.js)
-    - [Carrinho Exemple Javascript](./Carrinho.js)
+    - [Method in Javascript](./Javascript/Singleton02.js)
+    - [Carrinho Exemple Javascript](./Javascript/Carrinho.js)
 - [Python]
-    - [Method in Python](./Singleton01.py)
-    - [Carrinho Exemple Python](./Carrinho.py)
+    - [Method in Python](./Python/Singleton01.py)
+    - [Carrinho Exemple Python](./Python/Carrinho.py)
